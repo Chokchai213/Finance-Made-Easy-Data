@@ -155,7 +155,8 @@ cython_debug/
 # Project Default
 Python_script/tmp
 Python_script/test.ipynb
-
+*.csv
+*.zip
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
